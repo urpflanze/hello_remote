@@ -13,4 +13,4 @@ fn Második_fícsör()
   ezmega az"
   "
   Na ezt a solt meg ellontottam dilekt, hogy ki lehessen javítani egy folk-ban.
-
+  # Hát barátom rábasztál, nem lehet saját repository-n fork-ot csinálni.
