@@ -6,7 +6,7 @@ bold:  This is **bold**
 
 inline code:  `var c = 7;`
 
-link: [hyershade.net](https://www.hypershade.net)
+link: [hypershade.net](https://www.hypershade.net)
 
 Mi lesz ennek a vége?
 Szinte hihetetlen.
