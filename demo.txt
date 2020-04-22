@@ -1,1 +1,9 @@
 A jó pap holtig tanul.
+
+Todo: ezmegaz
+
+fn új_fícsör()
+  blalablablalla
+  bla
+
+# ezmegaz, azmegez ezt kikomentetem
