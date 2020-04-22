@@ -7,3 +7,10 @@ fn új_fícsör()
   bla
 
 # ezmegaz, azmegez ezt kikomentetem
+
+fn Második_fícsör()
+  "
+  ezmega az"
+  "
+  Na ezt a solt meg ellontottam dilekt, hogy ki lehessen javítani egy folk-ban.
+
